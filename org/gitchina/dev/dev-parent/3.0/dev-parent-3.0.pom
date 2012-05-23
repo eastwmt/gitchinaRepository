@@ -39,6 +39,14 @@
 				<enabled>false</enabled>
 			</snapshots>
 		</repository>
+        	<repository>
+			<id>springside</id>
+			<name>Gitchina.org Additional Repository</name>
+			<url>https://github.com/gitchina/gitchinaRepository/raw/master/</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
 		<repository>
 			<id>jboss</id>
 			<name>Jboss Repository</name>
