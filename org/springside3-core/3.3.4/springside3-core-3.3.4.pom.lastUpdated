@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Mar 26 11:06:25 CST 2012
+http\://localhost\:8081/nexus/content/groups/public/.lastUpdated=1332731180293
+http\://download.java.net/maven/2/.lastUpdated=1332731185752
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1332731181903
+http\://repository.jboss.com/maven2/.error=Could not transfer artifact org.springside\:springside3-core\:pom\:3.3.4 from/to JBoss repository (http\://repository.jboss.com/maven2/)\: Access denied to\: http\://repository.jboss.com/maven2/org/springside/springside3-core/3.3.4/springside3-core-3.3.4.pom, ReasonPhrase\:Forbidden.
+http\://download.java.net/maven/2/.error=
+http\://springside.googlecode.com/svn/repository/.error=
+default-http\://repository.jboss.com/maven2/.lastUpdated=1332731176067
+http\://springside.googlecode.com/svn/repository/.lastUpdated=1332731181430
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1332731180876
+http\://localhost\:8081/nexus/content/groups/public/.error=
